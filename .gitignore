@@ -1,0 +1,11 @@
+node_modules
+.turbo/
+vite.config.js.timestamp-*.mjs
+
+# Builds files
+packages/*/dist
+
+# Tests
+coverage
+junit-report.xml
+junit-reports.xml
